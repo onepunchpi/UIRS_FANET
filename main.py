@@ -44,3 +44,4 @@ for sender in nodes:
 
         print(f"{sender.name} → {receiver.name} | Link Quality (SIR): {quality}")
 
+

@@ -712,3 +712,4 @@ class DataSpeed:
     def __hash__(self):
         return hash(round(self._bps, 9))
 
+
