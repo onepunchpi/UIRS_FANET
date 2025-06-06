@@ -43,3 +43,4 @@ for sender in nodes:
         quality = sender.measure_link_quality(receiver, to_target_inter, from_target_inter)
 
         print(f"{sender.name} → {receiver.name} | Link Quality (SIR): {quality}")
+

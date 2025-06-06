@@ -244,3 +244,4 @@ class Node:
 #         return f"<Node id={self.id} position={self.position} power={self.power}W channel={self.channel}>"
 #
 #
+

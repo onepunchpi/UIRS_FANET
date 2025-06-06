@@ -816,3 +816,4 @@ class InterferenceSource(SignalSource):
 
     def __repr__(self):
         return f"<InterferenceSource '{self.name}' power={self.power} channels={self.freq_range}>"
+
